@@ -19,3 +19,4 @@ cmdblogのfrontendを保持するrepository
 0. `git cehckout main` or `git switch main` でmainブランチに戻り、`git fetch --prune git fetch -D <当該ブランチ名>` で、機能用ブランチを削除する
 
 テスト用です。後で取り消すのでとりあえず承認してください。
+悪意のあるコメントです。悪意悪意
