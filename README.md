@@ -17,3 +17,5 @@ cmdblogのfrontendを保持するrepository
         - PR作成者にmergeをしてもらうことが困難で、かつそのPRのmergeが他のタスクのボトルネックになっている際は、PR作成者以外がmergeしてもよい
 0. PR画面からremoteの機能用ブランチを消す
 0. `git cehckout main` or `git switch main` でmainブランチに戻り、`git fetch --prune git fetch -D <当該ブランチ名>` で、機能用ブランチを削除する
+
+テスト用です。後で取り消すのでとりあえず承認してください。
